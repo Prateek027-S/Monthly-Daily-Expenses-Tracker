@@ -24,7 +24,7 @@ def firstwin():
     password = StringVar()
 
     l0 = Label(f1, text="Monthly/Daily Expenses Tracker", font=font1, bg="Black", fg="White")
-    l0.place(x=320, y=45)
+    l0.place(x=295, y=45)
     l01 = Label(f1, text="Sign in", font=("Times", 20, "bold"), bg="Black", fg="White")
     l01.place(x=470, y=130)
     l1 = Label(f1, text='User Name:', font=font2, bg="Black", fg="White")
