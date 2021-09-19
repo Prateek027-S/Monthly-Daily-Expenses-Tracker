@@ -4,6 +4,10 @@ This program is used to keep track of a person's monthly expenses(the data can b
 ## Requirements
 For this program to run, you must have SQLite3 installed in your computer system along with Python version 3.6 or higher. It is recommended to run it in a system with Windows OS.
 ## Some glimpses of the GUI
+You can create an account by clicking on "Don't have an account" option:
+![image](https://user-images.githubusercontent.com/55046164/133920932-8605409e-536d-4f83-b9be-0054d372eb0f.png)
+
+Now, you can Login by entering your credentials:
 ![image](https://user-images.githubusercontent.com/55046164/133920640-36aa98e4-c314-4f97-8307-e7ee76429025.png)
 
 ![image](https://user-images.githubusercontent.com/55046164/133920728-f80a952a-dda0-4482-a386-4f80e698ba5b.png)
