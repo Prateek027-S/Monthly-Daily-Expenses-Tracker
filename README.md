@@ -1,4 +1,4 @@
-# Monthly/Expenses Tracker
+# Monthly/Daily Expenses Tracker
 ## About
 This program is used to keep track of a person's monthly expenses(the data can be entered by user on daily basis as well). The user can login, then add/view/edit/delete records. I have used Tkinter to create GUI and used SQLite3 to store and manage data in the database.
 ## Requirements
