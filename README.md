@@ -10,6 +10,7 @@ You can create an account by clicking on "Don't have an account" option:
 Now, you can Login by entering your credentials:
 ![image](https://user-images.githubusercontent.com/55046164/133920640-36aa98e4-c314-4f97-8307-e7ee76429025.png)
 
+After successfully logging into the account, a new window will open up in which you will see some options in the Menu tab. You can select the option of your choice, then after entering some required details an operation can be performed:
 ![image](https://user-images.githubusercontent.com/55046164/133920728-f80a952a-dda0-4482-a386-4f80e698ba5b.png)
 
 ![image](https://user-images.githubusercontent.com/55046164/133920445-ba8179ef-5770-438a-ab29-9a4cec9d530d.png)
