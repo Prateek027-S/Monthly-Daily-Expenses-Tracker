@@ -2,7 +2,7 @@
 ## About
 This program is used to keep track of a person's monthly expenses(the data can be entered by user on daily basis as well). The user can login, then add/view/edit/delete records. I have used Tkinter to create GUI and used SQLite3 to store and manage data in the database.
 ## Requirements
-For this program to run, you must have SQLite3 installed in your computer system along with Python version 3.6 or higher. It is recommended to run it in a system with Windows OS.
+For this program to run, you must have SQLite3 installed in your computer system along with Python(version 3.6 or higher) and Tkinter library of Python. It is recommended to run it in a system with Windows OS.
 ## Some glimpses of the GUI
 You can create an account by clicking on "Don't have an account" option:
 ![image](https://user-images.githubusercontent.com/55046164/133920932-8605409e-536d-4f83-b9be-0054d372eb0f.png)
