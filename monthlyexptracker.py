@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 import sqlite3
 
 
-def firstwin():
+def firstwin(): #First Window
     global font1, font2, uname
     win1 = Tk()
     win1.title("Log in")
@@ -347,7 +347,7 @@ def login(uname, password):
             user_id = cur.execute("SELECT id FROM Login WHERE name=?", (uname,)).fetchall()
             secwin()
 
-def secwin():
+def secwin(): #Second Window
     global f3, btn_set
     win2 = Toplevel()
     win2.title("Menu")
