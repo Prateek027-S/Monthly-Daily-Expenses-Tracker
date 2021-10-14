@@ -47,8 +47,6 @@ def firstwin(): #First Window
     Button(f1, text="Login", cursor="hand2", command=lambda: login(uname.get(), password.get()), image=login_but, bg="black", borderwidth=0, highlightthickness=0).place(x=425, y=380)
     Button(f1, text="Reset", cursor="hand2", command=lambda: clear(uname, password),image=reset_but , bg="black", borderwidth=0, highlightthickness=0).place(x=575, y=380)
     Button(f1, text="Don't have an account?", cursor="hand2", command=create_account, fg='#89CFF0', bg="black", borderwidth=0, highlightthickness=0, font=font2+('underline',)).place(x=420, y=460)
-    cvar = IntVar()
-    cvar.set(2)
     win1.mainloop()
 
 
